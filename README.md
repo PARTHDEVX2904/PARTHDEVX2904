@@ -1,5 +1,10 @@
+<div align="center">
+
 # 💫 About Me:
 CS undergrad based in Bangalore, working toward a software engineering role with Google as the long-term goal. I spend my time deep in DSA, web development, and ML — building projects, learning in public, and chasing mastery over speed. Outside of code, I run, box, lift, and play guitar; discipline off the screen feeds the discipline on it.
+
+
+[![](https://komarev.com/ghpvc/?username=PARTHDEVX2904&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -19,9 +24,16 @@ CS undergrad based in Bangalore, working toward a software engineering role with
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PARTHDEVX2904&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHDEVX2904&theme=dark&hide_border=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=PARTHDEVX2904&icon=0&color=blue)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center">
+  
+![snake gif](https://github.com/PARTHDEVX2904/PARTHDEVX2904/blob/output/github-snake-dark.svg)
+
+</div>
